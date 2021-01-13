@@ -1,2 +1,1 @@
-language = "bash"
-run = ""
+run = "bash run_button.sh"
